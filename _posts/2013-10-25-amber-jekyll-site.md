@@ -46,11 +46,11 @@ git push origin gh-pages
 From there, I made changes from github.com and not the terminal.  So to make the site look better by adding the CSS, I followed along with Grant in class and added {{site.baseurl}} in _layouts/default.html to:  
 
 ```
-	<!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css">
+<!-- syntax highlighting CSS -->
+<link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 ```
 
 To edit things like the name, go to _config.yml 
