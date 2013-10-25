@@ -55,8 +55,8 @@ From there, I made changes from github.com and not the terminal.  So to make the
 
 To edit things like the name, go to _config.yml 
 
-![Change Name](http://farm8.staticflickr.com/7347/10476631946_6dc1300256_s.jpg)
+![Change Name](http://farm8.staticflickr.com/7347/10476631946_44d991dc1f_o.jpg)
 
 And to edit the github.com and twitter (I don’t use twitter, so I put in my google+ instead) go to _layouts/default.html 
 
-![Change Links](http://farm4.staticflickr.com/3678/10476631706_8c829a3d93_s.jpg)
+![Change Links](http://farm4.staticflickr.com/3678/10476631706_f3573253be_o.jpg)
