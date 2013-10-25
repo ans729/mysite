@@ -6,6 +6,7 @@ title: Making a Jekyll Site
 ---
 
 My Jekyll site [My Jekyll site](http://ans729.github.io/mysite/)
+
 ![My Jekyll Site](http://farm3.staticflickr.com/2852/10476612455_6642653edd_s.jpg)
 
 
@@ -54,7 +55,7 @@ From there, I made changes from github.com and not the terminal.  So to make the
 
 To edit things like the name, go to _config.yml 
 
-![Change Name](http://farm8.staticflickr.com/7347/10476631946_6dc1300256.jpg)
+![Change Name](http://farm8.staticflickr.com/7347/10476631946_6dc1300256_s.jpg)
 
 And to edit the github.com and twitter (I don’t use twitter, so I put in my google+ instead) go to _layouts/default.html 
 
